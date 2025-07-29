@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "test-kotlin-utils-jitpack"
 include(":app")
- 
+include(":testutilsjitpack")
+include(":testUtilityJitpack")
